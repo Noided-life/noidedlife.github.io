@@ -1,1 +1,1 @@
-# noidedlife.github.io
+# Stay noided.
