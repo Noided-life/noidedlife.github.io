@@ -1,3 +1,7 @@
 h1 {
     display: none !important;
 }
+
+.anchorjs-link {
+    display: none;
+}
