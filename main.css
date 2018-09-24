@@ -16,3 +16,10 @@ body{
     background-color: black;
     color: #a0a0e0;
 }
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 70vh;
+}
