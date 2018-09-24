@@ -5,3 +5,14 @@ h1 {
 .anchorjs-link {
     display: none;
 }
+
+.markdown-body h3 {
+    font-size: 5vw;
+    text-align: center;
+    text-shadow: 2px 2px #24292e;
+}
+
+body{
+    background-color: black;
+    color: #a0a0e0;
+}
